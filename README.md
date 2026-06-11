@@ -46,7 +46,7 @@ The firmware is based on [s60sc/ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP
 - **20 Sep 2025** — **end of V1**: the original project's CAD files turned out to be
   uneditable and under-dimensioned — parts didn't fit ("near impossible to use its 3D files
   and build on top of that"). Decision taken to redesign all mechanical parts from scratch
-  → [V2](https://github.com/Open-Paw-Robot/openpaw-v2).
+  → [V2](https://github.com/openpawrobotai/openpaw-v2).
 
 ## 📁 Repository Layout
 
@@ -76,8 +76,8 @@ The firmware is based on [s60sc/ESP32-CAM_MJPEG2SD](https://github.com/s60sc/ESP
 
 ## 🤖 Other Versions
 
-- [openpaw-v2](https://github.com/Open-Paw-Robot/openpaw-v2) — custom rolling robot (own mechanicals + custom PCBA)
-- [openpaw-v3](https://github.com/Open-Paw-Robot/openpaw-v3) — **current generation** (two-wheeled expressive companion)
+- [openpaw-v2](https://github.com/openpawrobotai/openpaw-v2) — custom rolling robot (own mechanicals + custom PCBA)
+- [openpaw-v3](https://github.com/openpawrobotai/openpaw-v3) — **current generation** (two-wheeled expressive companion)
 
 ## 📜 License
 
